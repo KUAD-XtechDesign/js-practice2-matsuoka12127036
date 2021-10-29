@@ -27,7 +27,7 @@ let timer;
         checkbox();
 
         $("#content").text(hako)
-    },10)s
+    },10)
 
         $("#button04").on("click",function(){
             hako = 0;
